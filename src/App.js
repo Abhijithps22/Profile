@@ -57,7 +57,7 @@ function App() {
           </a>
         </div>
         <button>
-          <a href="portfolio-abi.netlify.app">Check Portfolio</a>
+          <a href="https://portfolio-abi.netlify.app">Check Portfolio</a>
         </button>
       </div>
     </div>
