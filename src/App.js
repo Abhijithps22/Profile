@@ -11,9 +11,10 @@ function App() {
           Hey!
         </span>
         <p className="info" style={{ color: " rgb(55, 52, 52)" }}>
-          I’m Abhijith Ps from India,I'm a Frontend Developer.And I create
-          Responsive web pages using my skills.You can checkout my Portfolio
-          Below.
+          I'm Abhijith Ps, a Software Developer. My expertise lies in both
+          frontend and backend technologies, enabling me to create dynamic and
+          responsive web applications. Let's connect and explore new
+          opportunities together!
         </p>
         <div className="share">
           <a href="https://github.com/Abhijithps22" target="blank">
@@ -57,7 +58,7 @@ function App() {
           </a>
         </div>
         <button>
-          <a href="https://portfolio-abi.netlify.app">Check Portfolio</a>
+          <a href="https://abhijithabi22.web.app/">Check Portfolio</a>
         </button>
       </div>
     </div>
